@@ -19,13 +19,18 @@ On a personal note, Ran is a proud father of two boys, an amateur barista, and p
 **Links**
 
 Serverless blog: https://ranthebuilder.cloud
+
 Past webinars: https://www.ranthebuilder.cloud/webinars
+
 GitHub: https://github.com/ran-isenberg
+
 GitHub: https://github.com/ran-isenberg/aws-lambda-handler-cookbook
+
 
 **Socials**
 
 Twitter: https://twitter.com/IsenbergRan
+
 LinkedIn: linkedin.com/in/ranisenberg/
 
 
