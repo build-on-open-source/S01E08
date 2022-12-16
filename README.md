@@ -1,5 +1,5 @@
 # S01E08
-Code samples and other resources from the Build on AWS Open Source episode, S01E08. This episode featured the AWS open source newsletters #138 and #139
+Code samples and other resources from the Build on AWS Open Source episode, S01E08. This episode featured the AWS open source newsletters [#138](https://dev.to/aws/aws-open-source-newsletter-138-461a) and [#139]()
 
 See replay here : <>
 
